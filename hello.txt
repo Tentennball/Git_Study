@@ -2,4 +2,5 @@ hello!
 mother
 third
 desktop clone
-vscode edit
+vscode editi
+three way merge
